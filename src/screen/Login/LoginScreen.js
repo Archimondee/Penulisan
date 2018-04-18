@@ -39,11 +39,6 @@ export default class LoginScreen extends Component{
                     </Form>
                     
                 </Content>
-                    <Footer style={{flexDirection:'column',alignItems:'center', backgroundColor:'transparent', marginBottom:5}}>
-                        <Text style={{fontSize:18}}> Laboratorium Teknik Informatika</Text>
-                        <Text> Universitas Gunadarma</Text>
-                        <Text> 2018</Text>
-                    </Footer>
             </Container>
         );
     }
